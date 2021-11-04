@@ -1,0 +1,15 @@
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\bin\Debug\net5.0\PruebasCompartiMOSS.exe
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\bin\Debug\net5.0\PruebasCompartiMOSS.deps.json
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\bin\Debug\net5.0\PruebasCompartiMOSS.runtimeconfig.json
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\bin\Debug\net5.0\PruebasCompartiMOSS.runtimeconfig.dev.json
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\bin\Debug\net5.0\PruebasCompartiMOSS.dll
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\bin\Debug\net5.0\ref\PruebasCompartiMOSS.dll
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\bin\Debug\net5.0\PruebasCompartiMOSS.pdb
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\PruebasCompartiMOSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\PruebasCompartiMOSS.AssemblyInfoInputs.cache
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\PruebasCompartiMOSS.AssemblyInfo.cs
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\PruebasCompartiMOSS.csproj.CoreCompileInputs.cache
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\PruebasCompartiMOSS.dll
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\ref\PruebasCompartiMOSS.dll
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\PruebasCompartiMOSS.pdb
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\PruebasCompartiMOSS\obj\Debug\net5.0\PruebasCompartiMOSS.genruntimeconfig.cache

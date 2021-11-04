@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PruebasCompartiMOSS/1.0.0": {
+        "runtime": {
+          "PruebasCompartiMOSS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebasCompartiMOSS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

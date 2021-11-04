@@ -1,0 +1,9 @@
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\bin\Debug\netstandard2.0\DataReaderSourceGenerator.deps.json
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\bin\Debug\netstandard2.0\DataReaderSourceGenerator.dll
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\bin\Debug\netstandard2.0\DataReaderSourceGenerator.pdb
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\obj\Debug\netstandard2.0\DataReaderSourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\obj\Debug\netstandard2.0\DataReaderSourceGenerator.AssemblyInfoInputs.cache
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\obj\Debug\netstandard2.0\DataReaderSourceGenerator.AssemblyInfo.cs
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\obj\Debug\netstandard2.0\DataReaderSourceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\obj\Debug\netstandard2.0\DataReaderSourceGenerator.dll
+C:\Users\redondojose\source\repos\PruebasCompartiMOSS\DataReaderSourceGenerator\obj\Debug\netstandard2.0\DataReaderSourceGenerator.pdb
