@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasCompartiMOSS2", "PruebasCompartiMOSS2\PruebasCompartiMOSS2.csproj", "{D86E7841-754D-4EB5-9FF9-DADD7790F075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSourceGenerator", "HashSourceGenerator\HashSourceGenerator.csproj", "{6A193DB8-8F03-424D-AA34-AAE2A8083C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86E7841-754D-4EB5-9FF9-DADD7790F075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86E7841-754D-4EB5-9FF9-DADD7790F075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86E7841-754D-4EB5-9FF9-DADD7790F075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86E7841-754D-4EB5-9FF9-DADD7790F075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A193DB8-8F03-424D-AA34-AAE2A8083C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A193DB8-8F03-424D-AA34-AAE2A8083C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A193DB8-8F03-424D-AA34-AAE2A8083C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A193DB8-8F03-424D-AA34-AAE2A8083C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {208EA18A-8414-4504-AAD1-47F1C3D319FD}
+	EndGlobalSection
+EndGlobal
