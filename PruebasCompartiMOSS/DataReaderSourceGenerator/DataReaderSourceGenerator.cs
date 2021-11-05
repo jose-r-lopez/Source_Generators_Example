@@ -43,7 +43,7 @@ namespace {mainMethod.ContainingNamespace.ToDisplayString()}
     }}
 }}
 ";
-                // add the source code to the compilation
+                // Añade el código fuente a la compilación
                 context.AddSource("GeneratedWSReader", codigoWS);
             }
             else
@@ -62,7 +62,7 @@ namespace {mainMethod.ContainingNamespace.ToDisplayString()}
     }}
 }}
 ";
-                // add the source code to the compilation
+                // Añade el código fuente a la compilación
                 context.AddSource("GeneratedBDReader", codigoDB);
             }
         }
